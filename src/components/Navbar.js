@@ -70,7 +70,7 @@ const Navbar = () => {
         <NavWrap>
             {/* <div>The Path to Bargaining</div> */}
             <a href="https://www.columbiaspectator.com/"><div className="mastheadWrap">
-                <img className="cdsLogo" src={cdsLogo}/>
+                <img className="cdsLogo" src={cdsLogo} alt=""/>
             </div></a>
             {VerticalLinks}
         </NavWrap>
